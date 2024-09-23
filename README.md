@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @amazingabyrd
 - 👀 I’m interested in embedded and software engineering.
-- 🌱 I’m currently learning c programming and robotics.
-- 💞️ I’m looking to collaborate on embedded engineering.
-- 📫 How to reach me austinybyrdy@gmail.com
+- 🌱 I’m currently learning Rust and Scala.
+- 💞️ I’m looking to collaborate on Software applications.
 
 <!---
 amazingabyrd/amazingabyrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
